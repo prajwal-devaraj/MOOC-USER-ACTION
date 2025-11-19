@@ -90,3 +90,9 @@ MOOC-USER-ACTION/
 │
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project description and structure
+
+```
+
+### Developed by
+
+**Prajwal Devaraj**
